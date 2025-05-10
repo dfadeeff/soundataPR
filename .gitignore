@@ -172,3 +172,16 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# Virtual environment
+.venv/
+
+# Jupyter
+*.ipynb_checkpoints/
+
+# MacOS
+.DS_Store
+
+# Dataset
+UrbanSound8K/
