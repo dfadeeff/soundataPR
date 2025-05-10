@@ -28,7 +28,7 @@ This project uses the **UrbanSound8K** dataset, a collection of 8,732 labeled so
 - ✅ Load and inspect audio metadata
 - ✅ Extract Mel spectrograms from audio clips
 - ✅ Apply basic data augmentation (e.g. time shift, spec augment)
-- ⏳ Train a simple classifier (planned)
+- ⏳ Train a simple classifier 
 
 This is meant to be a **practical, hands-on exploration** — not a production-ready pipeline.
 
