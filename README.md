@@ -43,3 +43,30 @@ This is meant to be a **practical, hands-on exploration** — not a production-r
 
 ---
 
+## 📈 Training Progress (Sample example)
+
+| Epoch | Loss | Accuracy |
+|-------|------|----------|
+| 0     | 2.04 | 0.26     |
+| 1     | 1.69 | 0.41     |
+| 2     | 1.47 | 0.49     |
+| 3     | 1.31 | 0.55     |
+| 4     | 1.18 | 0.59     |
+| 5     | 1.10 | 0.62     |
+| 6     | 1.02 | 0.65     |
+| 7     | 0.96 | 0.67     |
+| 8     | 0.93 | 0.69     |
+| 9     | 0.90 | 0.70     |
+
+
+---
+
+## 🧠 Model Architecture
+
+The following diagram shows the CNN-based model used for classifying audio samples:
+
+![Model Architecture](./image_model.png)
+
+---
+
+
